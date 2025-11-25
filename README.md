@@ -1,6 +1,6 @@
-# Hospitality_-Power_BI-
+# Hotel Performance Analytics Dashboard – Power BI
 
-Hotel Performance Analytics Dashboard – Power BI
+
 📌 Project Overview
 
 This project focuses on analyzing hotel business performance across multiple cities, room categories, booking platforms, and weekly trends.
@@ -55,3 +55,5 @@ dim_date
 🔹 Optimize weekday vs weekend pricing strategies
 🔹 Reduce cancellations & improve customer ratings
 🔹 Improve forecast accuracy through weekly trend evaluation
+
+![image_alt]()
