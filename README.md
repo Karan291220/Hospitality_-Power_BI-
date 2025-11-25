@@ -56,4 +56,4 @@ dim_date
 🔹 Reduce cancellations & improve customer ratings
 🔹 Improve forecast accuracy through weekly trend evaluation
 ![image_alt](https://github.com/Karan291220/Hospitality_-Power_BI-/blob/7be1d2baa6f9e1f46097fb14599be17c6e10bd54/P-BI%20Sample%20Image/Main.png)
-![image_alt]()
+![image_alt](https://github.com/Karan291220/Hospitality_-Power_BI-/blob/3dd496f12c8b1136813e96bd0730b7c3d8653640/P-BI%20Sample%20Image/Screenshot%202025-11-25%20120503.png)
