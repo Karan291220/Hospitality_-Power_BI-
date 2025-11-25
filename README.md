@@ -55,4 +55,5 @@ dim_date
 🔹 Optimize weekday vs weekend pricing strategies
 🔹 Reduce cancellations & improve customer ratings
 🔹 Improve forecast accuracy through weekly trend evaluation
-![image_alt]( )
+![image_alt](https://github.com/Karan291220/Hospitality_-Power_BI-/blob/7be1d2baa6f9e1f46097fb14599be17c6e10bd54/P-BI%20Sample%20Image/Main.png)
+![image_alt]()
