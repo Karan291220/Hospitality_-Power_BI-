@@ -56,4 +56,3 @@ dim_date
 🔹 Reduce cancellations & improve customer ratings
 🔹 Improve forecast accuracy through weekly trend evaluation
 
-![image_alt]()
