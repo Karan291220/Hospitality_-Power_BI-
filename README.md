@@ -55,4 +55,4 @@ dim_date
 🔹 Optimize weekday vs weekend pricing strategies
 🔹 Reduce cancellations & improve customer ratings
 🔹 Improve forecast accuracy through weekly trend evaluation
-
+![image_alt]( )
